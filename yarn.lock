@@ -501,10 +501,10 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@ton/crypto-primitives@2.0.1":
-  version "2.0.1"
-  resolved "https://nexus3.guarda.com/repository/group-guarda/@ton/crypto-primitives/-/crypto-primitives-2.0.1.tgz#e35c9037f1089eac6fc49524e0e542b3b1ecea10"
-  integrity sha512-p7vaz4nzPfJbvDR/nupC/aC4ubyyboXUFozPnAsoMn0K5RmkTThiKujFn+bcB2V5pZfHut4sKZUqNzp6f0J12g==
+"@ton/crypto-primitives@2.0.1-rc.2":
+  version "2.0.1-rc.2"
+  resolved "https://nexus3.guarda.com/repository/group-guarda/@ton/crypto-primitives/-/crypto-primitives-2.0.1-rc.2.tgz#6315b57ad200c21fa2b90daadddf3f41fc218e14"
+  integrity sha512-myT8ay2kuSBYk9rYvAtmY+vWaHt03XBlp6v2dw1qtSQD4Z19YjXtf6+aTl1pW0w4hUT9sB1wfTrRVvmFtrFT0g==
   dependencies:
     jssha "3.2.0"
 

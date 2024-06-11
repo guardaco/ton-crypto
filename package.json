@@ -1,6 +1,6 @@
 {
   "name": "@ton/crypto",
-  "version": "3.2.1",
+  "version": "3.2.1-rc.2",
   "repository": "https://github.com/ton-org/ton-crypto.git",
   "author": "Whales Corp. <developers@whalescorp.com>",
   "license": "MIT",
@@ -31,7 +31,7 @@
     "webpack": "^5.51.2"
   },
   "dependencies": {
-    "@ton/crypto-primitives": "github:guardaco/ton-crypto-primitives",
+    "@ton/crypto-primitives": "2.0.1-rc.2",
     "jssha": "3.2.0",
     "tweetnacl": "1.0.3"
   },
